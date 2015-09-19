@@ -1,1 +1,3 @@
 ghost/node_modules/
+ghost/content/data/ghost-dev.db
+npm-debug.log
